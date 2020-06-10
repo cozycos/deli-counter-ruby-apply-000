@@ -1,10 +1,10 @@
 #line "the line is currently empty."
 
 #method name    #argument
-def take_a_number(katz_deli,name) #=>
-katz_deli.push(name) #=>
-puts ("Welcome, #{name}. You are number #{katz_deli.length} in line.")
-end
+# def take_a_number(katz_deli,name) #=>
+# katz_deli.push(name) #=>
+# puts ("Welcome, #{name}. You are number #{katz_deli.length} in line.")
+# end
 
 #line "the line is currently empty."
 
