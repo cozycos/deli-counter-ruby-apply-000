@@ -5,7 +5,12 @@
 # katz_deli.push(name) #=>
 # puts ("Welcome, #{name}. You are number #{katz_deli.length} in line.")
 # end
-
+    number=0
+def take_a_number(katz_deli,number)
+    number+1
+    katz_deli.push(number) #=>
+    puts ("Welcome, you are #{number} in line.")
+    end
 #line "the line is currently empty."
 
 #method name    #argument
